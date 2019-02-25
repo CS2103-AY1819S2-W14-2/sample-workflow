@@ -11,4 +11,9 @@ class Main {
   public void printHi() {
   	System.out.println("Hi! I am Si Mun");
   }
+
+  public static void boo(){ 
+    System.out.println("BOO!!");
+  }
 }
+
