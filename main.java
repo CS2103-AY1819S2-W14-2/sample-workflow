@@ -3,4 +3,8 @@ class Main {
     System.out.println("Hello World!");
 	System.out.println("Addison is a pig!!");
   }
+
+  void location(){
+    System.out.println("I'm at home.");
+  }
 }
