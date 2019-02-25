@@ -7,4 +7,8 @@ class Main {
   void location(){
     System.out.println("I'm at home.");
   }
+
+  public static void boo(){ 
+    System.out.println("BOO!!");
+  }
 }
