@@ -5,6 +5,10 @@ class Main {
   System.out.println("Addison is a 8=D!!");
   
   for(int i = 0; i<5; i++) {
+    system.out.println("He's a PIG!");
+  }
+  
+  for(int i = 0; i<5; i++) {
     system.out.println(i);
   }
 }
